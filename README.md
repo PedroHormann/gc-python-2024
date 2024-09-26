@@ -49,7 +49,7 @@ Resposta: Grass
 ```
 Gosto de cidades populosas, sem ser SP qual outra posso morar?
 ```
-Resposta:
+Resposta: Tokyo
 ```
 
 ...
