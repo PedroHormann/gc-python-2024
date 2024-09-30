@@ -1,0 +1,77 @@
+[
+    {
+        "name":"Hereditary",
+        "date":2018,
+        "score":10
+    },
+    {
+        "name":"The Witch",
+        "date":2015,
+        "score":9
+    },
+    {
+        "name":"Midsommar",
+        "date":2019,
+        "score":8
+    },
+    {
+        "name":"Ender`s Game",
+        "date":2013,
+        "score":10
+    },
+    {
+        "name":"Get Out",
+        "date":2017,
+        "score":9
+    },
+    {
+        "name":"The Office",
+        "date":2005,
+        "score":10
+    },
+    {
+        "name":"Game of Thrones",
+        "date":2011,
+        "score":7
+    },
+    {
+        "name":"The Walking Dead",
+        "date":2010,
+        "score":5
+    },
+    {
+        "name":"Friends",
+        "date":1994,
+        "score":10
+    },
+    {
+        "name":"The Sopranos",
+        "date":1999,
+        "score":9
+    },
+    {
+        "name":"SpongeBob SquarePants",
+        "date":1999,
+        "score":8
+    },
+    {
+        "name":"Adventure Time",
+        "date":2010,
+        "score":8
+    },
+    {
+        "name":"Over the Garden Wall",
+        "date":2014,
+        "score":10
+    },
+    {
+        "name":"Gravity Falls",
+        "date":2012,
+        "score":10
+    },
+    {
+        "name":"Rick and Morty",
+        "date":2013,
+        "score":10
+    }
+]
