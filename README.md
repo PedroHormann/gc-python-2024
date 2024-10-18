@@ -57,7 +57,7 @@ Resposta: Jupyter
 ```
 Qual meu tipo de pokemon favorito?
 ```
-Resposta: Grass
+Resposta: Shiny
 ```
 Gosto de cidades populosas, sem ser SP qual outra posso morar?
 ```
